@@ -4,9 +4,10 @@ En el archivo "SP500_analisis.ipynb" se presenta un análisis del indice en el p
 
 ### Cual fue el mejor día para invertir teniendo en cuenta el retorno de los movimiento gap?
 
+
+La estrategia de trading conocida como "comprar al cierre, vender a la apertura" (Buy at Close, Sell at Open en inglés) se basa en tomar posiciones en el mercado al final del día y cerrarlas al inicio del próximo día hábil. Esta estrategia está particularmente centrada en aprovechar los movimientos de brecha o "gaps" en el precio que ocurren entre el cierre de un día y la apertura del siguiente.
+
 ![gaps](https://github.com/facundoallia/analisisSP500/raw/main/asset/days.png)
-
-
 
 Según el analisis realizado, si bien las diferencias no son significativas, el mejor día para invertir solo teniendo en cuenta los rendimientos gap es el martes, con un retorno promedio en el periodo bajo estudio de 0.06%. Por otro lado, el peor dia para realizar esta estrategia es el viernes, con un retorno promedio en el periodo bajo estudio de un -0.01%.
 
