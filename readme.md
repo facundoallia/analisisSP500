@@ -4,7 +4,7 @@ En el archivo "SP500_analisis.ipynb" se presenta un análisis del indice en el p
 
 ### Cual fue el mejor día para invertir teniendo en cuenta el retorno de los movimiento gap?
 
-![gaps](https://github.com/facundoallia/analisisSP500/raw/main/asset/days.png)
+![gaps](https://github.com/facundoallia/analisisSP500/raw/main/asset/days.jpg)
 
 
 Según el analisis realizado, si bien las diferencias no son significativas, el mejor día para invertir solo teniendo en cuenta los rendimientos gap es el martes, con un retorno promedio en el periodo bajo estudio de 0.06%. Por otro lado, el peor dia para realizar esta estrategia es el viernes, con un retorno promedio en el periodo bajo estudio de un -0.01%.
@@ -21,7 +21,7 @@ Si bien la estrategia "buy the close, sell the open" parece funcionar en la teor
 
 ### Cual fue el mejor día para invertir teniendo en cuenta el retorno de los movimientos intradiarios?
 
-![intraday](https://github.com/facundoallia/analisisSP500/raw/main/asset/days_intra.png)
+![intraday](https://github.com/facundoallia/analisisSP500/raw/main/asset/days_intra.jpg)
 
 
 Las mismas consideraciones que fueron presentadas para la estrategia "buy the close, sell the open" deben ser tenidas en cuenta para la segunda estrategia
