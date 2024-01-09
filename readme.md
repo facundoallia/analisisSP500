@@ -21,7 +21,8 @@ Si bien la estrategia "buy the close, sell the open" parece funcionar en la teor
 
 ### Cual fue el mejor día para invertir teniendo en cuenta el retorno de los movimientos intradiarios?
 
-![intraday](https://github.com/facundoallia/analisisSP500/raw/main/asset/days_intra.jpg)
+![intra](https://github.com/facundoallia/analisisSP500/raw/main/asset/days_intra.jpg)
+
 
 
 Las mismas consideraciones que fueron presentadas para la estrategia "buy the close, sell the open" deben ser tenidas en cuenta para la segunda estrategia
